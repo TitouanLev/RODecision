@@ -1,2 +1,41 @@
-Ici seront écrits les résultats des question du sujet
+Confirmed cases :
+   Province/State Country/Region      Lat  ...  3/20/20  3/21/20  3/22/20
+62          Hubei          China  30.9756  ...    67800    67800    67800
+60          Henan          China  33.882  ...     1273     1273     1274
+137            NaN          Italy  43.0  ...    47021    53578    59138
+202            NaN          Spain  40.0  ...    20410    25374    28768
+107     French Guiana         France   3.9339  ...       15       18       18
+108  French Polynesia         France -17.6797  ...       11       15       18
+109        Guadeloupe         France  16.2500  ...       45       53       58
+110           Mayotte         France -12.8275  ...        6        7       11
+111     New Caledonia         France -20.9043  ...        2        4        4
+112           Reunion         France -21.1351  ...       28       45       64
+113  Saint Barthelemy         France  17.9000  ...        3        3        3
+114         St Martin         France  18.0708  ...        4        4        5
+115        Martinique         France  14.6415  ...       32       32       44
+116               NaN         France  46.2276  ...    12612    14282    16018
+226            NaN             US  37.0902  ...    19100    25489    33276
+176            NaN         Norway  60.472  ...     1914     2118     2385
+97            NaN        Ecuador -1.8312  ...      367      506      789
+139            NaN          Japan  36.0  ...      963     1007     1101
 
+Deaths :
+   Province/State Country/Region      Lat  ...  3/20/20  3/21/20  3/22/20
+62          Hubei          China  30.9756  ...     3133     3139     3153
+60          Henan          China  33.882  ...       22       22       22
+137            NaN          Italy  43.0  ...     4032     4825     5476
+202            NaN          Spain  40.0  ...     1043     1375     1772
+107     French Guiana         France   3.9339  ...        0        0        0
+108  French Polynesia         France -17.6797  ...        0        0        0
+109        Guadeloupe         France  16.2500  ...        0        0        1
+110           Mayotte         France -12.8275  ...        0        0        0
+111     New Caledonia         France -20.9043  ...        0        0        0
+112           Reunion         France -21.1351  ...        0        0        0
+113  Saint Barthelemy         France  17.9000  ...        0        0        0
+114         St Martin         France  18.0708  ...        0        0        0
+115        Martinique         France  14.6415  ...        1        1        1
+116               NaN         France  46.2276  ...      450      562      674
+226            NaN             US  37.0902  ...      244      307      417
+176            NaN         Norway  60.472  ...        7        7        7
+97            NaN        Ecuador -1.8312  ...        5        7       14
+139            NaN          Japan  36.0  ...       33       35       41

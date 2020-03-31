@@ -2,7 +2,7 @@ import pandas as pd
 
 #Pays : Italy Spain France US Norway Equador Japan Ville : Hubei Henan
 
-zones = ["Italy", "Spain", "France", "US", "Norway", "Equador", "Japan"]
+zones = ["Italy", "Spain", "France", "US", "Norway", "Ecuador", "Japan"]
 villes = ["Hubei", "Henan"]
 
 dataConfirmed = pd.read_csv('time_series_covid19_confirmed_global.csv')
